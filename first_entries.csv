@@ -1,0 +1,6 @@
+,id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365,number_of_reviews_ltm,license
+0,35797,Villa Dante,153786,Dici,,Cuajimalpa de Morelos,19.38283,-99.27178,Entire home/apt,4001,1,0,,,1,363,0,
+1,783480,"Area Sta.Fe,IberoABC Hospital Rooms",4129056,Janet,,Cuajimalpa de Morelos,19.35379,-99.28459,Private room,500,2,27,2019-11-30,0.26,2,363,0,
+2,44616,CONDESA HAUS  B&B,196253,Condesa Haus Bed & Breakfast  CDMX,,Cuauhtémoc,19.41162,-99.17794,Entire home/apt,18000,1,58,2022-08-29,0.44,12,331,8,
+3,796477,Classic but Modern Apartment in Condesa,4195771,Jair,,Cuauhtémoc,19.41824,-99.1756,Private room,599,3,144,2022-05-18,1.52,1,323,3,
+4,56074,Great space in historical San Rafael,265650,Maris,,Cuauhtémoc,19.43977,-99.15605,Entire home/apt,650,2,76,2022-09-08,0.54,2,354,15,
